@@ -1,0 +1,2 @@
+# mano
+mano basic computer 
